@@ -23,6 +23,8 @@ public class JdbcUserInput {
 		System.out.print("Enter ID: ");
 		int id = sc.nextInt();
 
+		
+		
 		sc.nextLine();
 
 		System.out.print("Enter Name: ");
