@@ -45,6 +45,7 @@ public class JdbcUserInput {
 		ps.setInt(1, id);
 		ps.setString(2, sname);
 		ps.setInt(3, sage);
+		
 		ps.setString(4, scity);
 
 		// 6. Execute INSERT
