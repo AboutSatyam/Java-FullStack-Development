@@ -17,7 +17,8 @@ public class JdbcUserInput {
 
 		Connection connect = DriverManager.getConnection(url, user, password);
 
-		// 3. Take Input from User
+		// 3. Take Input 
+		from User
 		Scanner sc = new Scanner(System.in);
 
 		System.out.print("Enter ID: ");
