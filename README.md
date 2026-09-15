@@ -1,18 +1,11 @@
-## 🗺️ Java Full Stack Roadmap
+## 🗺️ Java Full Stack Roadmap ⭐
 
-```
+``` 
 JAVA FULL STACK
 │
 ├── 1. Core Java ✅
-│   ├── OOP
-│   ├── Collections
-│   ├── Generics
-│   ├── Exception Handling
-│   ├── File Handling
-│   ├── Multithreading
-│   └── Java 8+
 │
-├── 2. DSA 
+├── 2. DSA
 │   ├── Arrays
 │   ├── Strings
 │   ├── Linked List
@@ -32,33 +25,25 @@ JAVA FULL STACK
 │   └── MySQL
 │
 ├── 4. Backend
-│   ├── JDBC
-│   ├── Servlets
+│   ├── JDBC ✅
+│   ├── Servlets ✅
 │   └── Hibernate
 │
-├── 5. Spring
-│   ├── Spring Core
-│   ├── Spring MVC
-│   ├── Spring Boot 
-│   ├── Spring Security
-│   └── REST APIs
+├── 5. Tools ✅
+│   ├── Git & GitHub 
+│   └── Maven / Gradle 
 │
-├── 6. Microservices
-│   ├── REST
-│   ├── Service Discovery
-│   ├── API Gateway
-│   ├── Config Server
-│   └── Communication
+├── 6. Spring Boot
 │
-├── 7. DevOps 
-│   ├── Git & GitHub ✅
-│   ├── Maven / Gradle ✅ 
+├── 7. Microservices
+│
+├── 8. DevOps
 │   ├── Linux
 │   ├── Docker
 │   ├── Kubernetes
 │   └── CI/CD
 │
-└── 8. Frontend
+└── 9. Frontend
     ├── HTML
     ├── CSS
     ├── JavaScript
