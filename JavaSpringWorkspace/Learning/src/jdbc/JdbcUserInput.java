@@ -44,7 +44,7 @@ public class JdbcUserInput {
 		// 5. Set User Values
 		ps.setInt(1, id);
 		ps.setString(2, sname);
-		ps.setInt(3, sage);
+		ps.setInt(3, sage); 
 
 		ps.setString(4, scity);
 
