@@ -39,7 +39,7 @@ JAVA FULL STACK
 ├── 5. Spring
 │   ├── Spring Core
 │   ├── Spring MVC
-│   ├── Spring Boot ⭐
+│   ├── Spring Boot 
 │   ├── Spring Security
 │   └── REST APIs
 │
@@ -50,7 +50,7 @@ JAVA FULL STACK
 │   ├── Config Server
 │   └── Communication
 │
-├── 7. DevOps ⭐
+├── 7. DevOps 
 │   ├── Git & GitHub ✅
 │   ├── Maven / Gradle ✅ 
 │   ├── Linux
