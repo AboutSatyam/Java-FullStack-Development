@@ -51,7 +51,7 @@ public class JdbcUserInput {
 		// 6. Execute INSERT
 		int rows = ps.executeUpdate();
 
-		// 7. Check Result
+		// 7. Check Result..
 		if (rows > 0) {
 			System.out.println("Data Inserted Successfully!");
 		}
