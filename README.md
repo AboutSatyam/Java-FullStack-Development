@@ -49,7 +49,7 @@ JAVA FULL STACK
     ├── JavaScript
     └── React
 
-
+```
 
 _______________________________________________________________________________________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________
@@ -104,4 +104,45 @@ ________________________________________________________________________________
 
 
 
-```
+
+# 🚀 Java Full Stack Development Roadmap
+
+## 📚 Backend — Java
+
+- ☐ OOPs
+- ☑ Core Java
+- ☐ SQL & JDBC
+- ☐ Maven & Gradle
+- ☐ JUnit 5
+- ☐ Servlet
+- ☐ Hibernate
+
+## 🌱 Spring & Microservices
+
+- ☐ Spring Core & Spring Boot
+- ☐ Spring JPA
+- ☐ Spring Web MVC
+- ☐ Spring REST
+- ☐ Spring AOP
+- ☐ Spring Security
+- ☐ Spring AI
+- ☐ Microservices
+
+## 🧠 DSA
+
+- ☐ DSA
+
+## 🎨 Frontend
+
+- ☐ HTML
+- ☐ CSS
+- ☐ JavaScript
+- ☐ React
+
+## ⚙️ DevOps
+
+- ☐ DevOps
+- ☐ Docker
+- ☐ Cloud
+- ☐ 4 Topics
+- ☐ Final Project
