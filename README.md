@@ -98,3 +98,50 @@ ________________________________________________________________________________
 ## 💻 Projects
 
 - [ ] Final Project
+
+
+
+jjjjjkkk
+
+
+# 🚀 Java Full Stack Development Roadmap
+
+## ☕ Java Backend
+
+- ⬜ OOPs
+- ⬜ Core Java
+- ⬜ SQL & JDBC
+- ⬜ Maven & Gradle
+- ⬜ JUnit 5
+- ⬜ Servlet
+- ⬜ Hibernate
+
+## 🌱 Spring Framework
+
+- ⬜ Spring Core & Spring Boot
+- ⬜ Spring JPA
+- ⬜ Spring Web MVC
+- ⬜ Spring REST
+- ⬜ Spring AOP
+- ⬜ Spring Security
+- ⬜ Spring AI
+- ⬜ Microservices
+
+## 🧠 DSA
+
+- ⬜ DSA
+
+## 🎨 Frontend
+
+- ⬜ HTML
+- ⬜ CSS
+- ⬜ JavaScript
+- ⬜ React
+
+## ⚙️ DevOps
+
+- ⬜ DevOps
+- ⬜ Docker
+- ⬜ Cloud
+- ⬜ 4 Topics
+- ⬜ Final Project
