@@ -52,24 +52,21 @@ JAVA FULL STACK
 ```
 
 _______________________________________________________________________________________________________________________________________________________________
-_______________________________________________________________________________________________________________________________________________________________
 
 
+# 🚀 Java Full Stack Development
 
-
-# 🚀 Java Full Stack Development Roadmap
-
-## 📚 Backend — Java
+## ☕ Java Backend
 
 - [ ] OOPs
-- [x] Core Java
-- [ ] SQL & JDBC
+- [ ] Core Java
+- [x] SQL & JDBC
 - [ ] Maven & Gradle
 - [ ] JUnit 5
 - [ ] Servlet
 - [ ] Hibernate
 
-## 🌱 Spring & Microservices
+## 🌱 Spring Framework
 
 - [ ] Spring Core & Spring Boot
 - [ ] Spring JPA
@@ -84,65 +81,20 @@ ________________________________________________________________________________
 
 - [ ] DSA
 
-## 🎨 Frontend
+## 🌐 Frontend
 
 - [ ] HTML
 - [ ] CSS
 - [ ] JavaScript
 - [ ] React
 
-## ⚙️ DevOps
+## 🚀 DevOps & Cloud
 
 - [ ] DevOps
 - [ ] Docker
 - [ ] Cloud
-- [ ] 4 Topics
+- [ ] 4 Important Topics
+
+## 💻 Projects
+
 - [ ] Final Project
-
-
-
-
-
-
-
-# 🚀 Java Full Stack Development Roadmap
-
-## 📚 Backend — Java
-
-- ☐ OOPs
-- ☑ Core Java
-- ☐ SQL & JDBC
-- ☐ Maven & Gradle
-- ☐ JUnit 5
-- ☐ Servlet
-- ☐ Hibernate
-
-## 🌱 Spring & Microservices
-
-- ☐ Spring Core & Spring Boot
-- ☐ Spring JPA
-- ☐ Spring Web MVC
-- ☐ Spring REST
-- ☐ Spring AOP
-- ☐ Spring Security
-- ☐ Spring AI
-- ☐ Microservices
-
-## 🧠 DSA
-
-- ☐ DSA
-
-## 🎨 Frontend
-
-- ☐ HTML
-- ☐ CSS
-- ☐ JavaScript
-- ☐ React
-
-## ⚙️ DevOps
-
-- ☐ DevOps
-- ☐ Docker
-- ☐ Cloud
-- ☐ 4 Topics
-- ☐ Final Project
