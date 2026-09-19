@@ -71,7 +71,7 @@ ________________________________________________________________________________
 
 ## 🌱 Spring & Microservices
 
-- [] Spring Core & Spring Boot
+- [ ] Spring Core & Spring Boot
 - [ ] Spring JPA
 - [ ] Spring Web MVC
 - [ ] Spring REST
